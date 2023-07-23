@@ -1,4 +1,4 @@
-<img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/main/Development%20Design.gif" width="1000px">
+<img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/Development/Development%20Design.gif" width="1000px">
 
 # Bhushan Shelar
 
@@ -9,7 +9,7 @@
 ## Skills and Experience :
 
 
-#### <img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/main/icons8-c-sharp-logo-48.png"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/main/NET_Core_Logo.svg.png" width="50"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/main/icons8-angular-48.png"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/main/sql.png" width="50"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/main/neo4j3197.jpg" width="70"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/main/apache-kafka.png" width="70"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/main/ElasticSearch.png" width="50">
+#### <img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/Development/icons8-c-sharp-logo-48.png"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/Development/NET_Core_Logo.svg.png" width="50"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/Development/icons8-angular-48.png"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/Development/sql.png" width="50"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/Development/neo4j3197.jpg" width="70"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/Development/apache-kafka.png" width="70"><img src="https://github.com/Bhushanskiller/Bhushanskiller/blob/Development/ElasticSearch.png" width="50">
 
 
 
